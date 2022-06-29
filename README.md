@@ -5,7 +5,9 @@
 
 </aside>
 
+# Tabla de contenido
 - [🤖 Code Guidelines](#code-guidelines)
+- [Tabla de contenido](#tabla-de-contenido)
 - [Paradigma](#paradigma)
 - [Estructura](#estructura)
 - [Variables](#variables)
