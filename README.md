@@ -5,6 +5,17 @@
 
 </aside>
 
+- [🤖 Code Guidelines](#code-guidelines)
+- [Paradigma](#paradigma)
+- [Estructura](#estructura)
+- [Variables](#variables)
+- [Objetos](#objetos)
+- [Arrays](#arrays)
+- [Funciones](#funciones)
+- [Operadores](#operadores)
+- [Comentarios](#comentarios)
+- [Sintaxis](#sintaxis)
+
 # Paradigma
 
 1.1 Prioriza el uso de programación funcional sobre escribir código imperativo.
