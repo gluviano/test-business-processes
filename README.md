@@ -1,4 +1,4 @@
-# Code Guidelines
+# 🤖 Code Guidelines
 
 <aside>
 💡 Algunas consideraciones y consensos para escribir los scripts
@@ -6,8 +6,6 @@
 </aside>
 
 # Paradigma
-
----
 
 1.1 Prioriza el uso de programación funcional sobre escribir código imperativo.
 
@@ -80,8 +78,6 @@ var check = function(edad) {
 
 # Estructura
 
----
-
 1.1 Inicia los scripts colocando todas las sentencias `import` necesarias. Una por línea.
 
 1.2 Coloca en segundo lugar todas las declaraciones de variables y constantes que estarás usando a lo largo del script.
@@ -111,8 +107,6 @@ users.map((user)=>{
 
 # Variables
 
----
-
 1.1 Favorece el uso de `const` y `let`. Usa `var` solo cuando sea necesario.
 
 1.2 Declara e inicializa las referencias en una sola línea.
@@ -125,8 +119,6 @@ users.map((user)=>{
 ```
 
 # Objetos
-
----
 
 1.1 Usa la sintaxis literal para crear objetos.
 
@@ -228,13 +220,9 @@ const numberInArray = [
 
 # Operadores
 
----
-
 1.1 Prioriza el uso de `===` sobre `==` y de `!==` sobre `! =`.
 
 # Comentarios
-
----
 
 1.1 Usa `/** … */` para comentarios multilinea.
 
@@ -294,8 +282,6 @@ function getType() {
 1.3 Usa comentarios para todas las funciones que declares y para los bloques especialmente complejos
 
 # Sintaxis
-
----
 
 1.1 Usa un máximo de 80 caracteres por línea.
 
