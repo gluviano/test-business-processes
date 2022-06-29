@@ -1,4 +1,3 @@
-# 🤖 Code Guidelines
 
 <aside>
 💡 Algunas consideraciones y consensos para escribir los scripts
@@ -6,8 +5,6 @@
 </aside>
 
 # Tabla de contenido
-- [🤖 Code Guidelines](#code-guidelines)
-- [Tabla de contenido](#tabla-de-contenido)
 - [Paradigma](#paradigma)
 - [Estructura](#estructura)
 - [Variables](#variables)
